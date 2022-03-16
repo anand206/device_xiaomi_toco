@@ -1,5 +1,3 @@
-Copyright (C) 2021 The LineageOS Project
-
 Device configuration for Xiaomi Mi Note 10 Lite
 =========================================
 
