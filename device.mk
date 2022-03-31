@@ -16,6 +16,9 @@ $(call inherit-product, device/xiaomi/sm6150-common/sm6150.mk)
 # API level, the device has been commercially launched on
 PRODUCT_SHIPPING_API_LEVEL := 29
 
+PRODUCT_BOARD_PLATFORM := sm6150
+PRODUCT_USES_QCOM_HARDWARE := true
+
 # Audio
 PRODUCT_PACKAGES += \
     libtinycompress
